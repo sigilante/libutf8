@@ -1,6 +1,9 @@
-  ::
-::::  String library for UTF-8 per-character strings
+  ::  /lib/utf8
+::::
+::  String library for UTF-8 per-character strings.
 ::
+::  This file is not subject to kelvin versioning and the interface should
+::  not be considered official.
 ::
 |%
 ::    $low
